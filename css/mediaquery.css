@@ -52,6 +52,16 @@
                 padding-bottom: 137px;
         }
 
+        .dots img,
+        .dots2 img,
+        .dots3 img,
+        .dots4 img,
+        .dots5 img,
+        .dots6 img,
+        .dots7 img {
+                display: block;
+        }
+
         .dots {
                 top: 235px;
                 right: -20px;
